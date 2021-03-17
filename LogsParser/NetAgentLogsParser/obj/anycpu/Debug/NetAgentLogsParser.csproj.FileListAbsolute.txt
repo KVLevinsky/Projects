@@ -1,0 +1,6 @@
+/Users/klevinsk/projects/LogsParser/NetAgentLogsParser/bin/Debug/NetAgentLogsParser.exe
+/Users/klevinsk/projects/LogsParser/NetAgentLogsParser/bin/Debug/NetAgentLogsParser.pdb
+/Users/klevinsk/projects/LogsParser/NetAgentLogsParser/obj/anycpu/Debug/NetAgentLogsParser.csprojAssemblyReference.cache
+/Users/klevinsk/projects/LogsParser/NetAgentLogsParser/obj/anycpu/Debug/NetAgentLogsParser.csproj.CoreCompileInputs.cache
+/Users/klevinsk/projects/LogsParser/NetAgentLogsParser/obj/anycpu/Debug/NetAgentLogsParser.exe
+/Users/klevinsk/projects/LogsParser/NetAgentLogsParser/obj/anycpu/Debug/NetAgentLogsParser.pdb

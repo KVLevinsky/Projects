@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{8763EC7A-01F4-4654-9B73-10FDEEA3700A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NetAgentLogsParser/MainWindow.cs">
+    <Files>
+      <File FileName="NetAgentLogsParser/Program.cs" Line="1" Column="1" />
+      <File FileName="NetAgentLogsParser/MainWindow.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LogsParser" expanded="True">
+            <Node name="NetAgentLogsParser" expanded="True">
+              <Node name="MainWindow.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.NetAgentLogsParser PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

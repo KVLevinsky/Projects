@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetAgentLogsParser", "NetAgentLogsParser\NetAgentLogsParser.csproj", "{8763EC7A-01F4-4654-9B73-10FDEEA3700A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8763EC7A-01F4-4654-9B73-10FDEEA3700A}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{8763EC7A-01F4-4654-9B73-10FDEEA3700A}.Debug|anycpu.Build.0 = Debug|anycpu
+		{8763EC7A-01F4-4654-9B73-10FDEEA3700A}.Release|anycpu.ActiveCfg = Release|anycpu
+		{8763EC7A-01F4-4654-9B73-10FDEEA3700A}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E941CB97-EF4F-434E-9F08-5C24F992C5D2}
+	EndGlobalSection
+EndGlobal
