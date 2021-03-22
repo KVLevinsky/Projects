@@ -1,0 +1,41 @@
+services:
+  db-pg-10:
+    image: postgres:10
+    container_name: db-pg-10
+    env_file: ./db-pg-10/.env.db-pg-10
+    restart: always
+    ports: 
+      - 5432:5432
+    volumes:
+      - ./db-pg-10/data:/var/lib/postgresql/data
+
+  db-pg-11:
+    image: postgres:11
+    container_name: db-pg-11
+    env_file: ./db-pg-11/.env.db-pg-11
+    restart: always
+    ports: 
+      - 5433:5432
+    volumes:
+      - ./db-pg-11/data:/var/lib/postgresql/data
+
+  db-pg-12:
+    image: postgres:12
+    container_name: db-pg-12
+    env_file: ./db-pg-12/.env.db-pg-12
+    restart: always
+    ports: 
+      - 5434:5432
+    volumes:
+      - ./db-pg-12/data:/var/lib/postgresql/data
+
+  db-pg-admin:
+    image: dpage/pgadmin4
+    container_name: db-pg-admin
+    env_file: ./db-pg-admin/.env.db-pg-admin
+    restart: always
+    ports:
+      - 8080:80
+      - 8443:443
+    volumes: 
+      - ./db-pg-admin/data:/var/lib/pgadmin
